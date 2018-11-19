@@ -1,0 +1,2 @@
+# NI_DAQ
+power
